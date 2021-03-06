@@ -14,9 +14,9 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="aligkts | Medium" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725376.svg" />][medium]
 [<img align="left" alt="aligkts | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 [<img align="left" alt="aligkts | Mail" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg"/>][mail]
+[<img align="left" alt="aligkts | Medium" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725376.svg" />][medium]
 
 <br />
 
