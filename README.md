@@ -8,7 +8,7 @@
 - 📚 I’m currently learning everything about Mobile technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
-- 📚 I regularly write articles on [Medium][medium]
+- ✍️ I regularly write articles on [Medium][medium]
 ---
 
 
