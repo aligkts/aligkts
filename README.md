@@ -67,7 +67,7 @@
 
 [linkedin]: https://www.linkedin.com/in/aligkts/
 [medium]: https://medium.com/@alig106
-[mail]: mailto:eng.ali.goktas@gmail.com?subject=[GitHub]
+[mail]: mailto:eng.ali.goktas@gmail.com
 
 
 ----
