@@ -10,7 +10,7 @@
 - 👨‍ 💻 I’m currently working on mobile development technologies like Kotlin, Java, Flutter, Swift etc.
 - 📚  I’m currently learning everything about Mobile technologies 😅
 - 💪🏼  Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡  Fun fact: I love to play pool and snooker 🎱.
+- ⚡  Fun fact: I love riding 🏍️ and playing football ⚽.
 - ✍️  I regularly write articles on [Medium][medium]
 ---
 
