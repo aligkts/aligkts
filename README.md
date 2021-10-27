@@ -7,7 +7,7 @@
 
 ## I'm an Android Developer  
 
-- 👨‍ 💻 I’m currently working on mobile development technologies like Kotlin, Java, Flutter, Swift etc.
+- 👨‍ 💻 I’m currently working on mobile development technologies like Kotlin, Java, Swift.
 - 📚  I’m currently learning everything about Mobile technologies 😅
 - 💪🏼  Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡  Fun fact: I love riding 🏍️ and playing football ⚽.
