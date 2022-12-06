@@ -1,10 +1,3 @@
-# Hi there, I'm Ali <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
-<p align="center">
-  <img src="https://github.com/aligkts/aligkts/blob/main/cover-aligkts.png" height="200"/>
-</p>
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 ## I'm an Android Developer  
 
 - 👨‍ 💻 I’m currently working on mobile development technologies like Kotlin, Java, Swift.
