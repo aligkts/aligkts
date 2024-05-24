@@ -59,7 +59,7 @@
 ---
 
 [linkedin]: https://www.linkedin.com/in/aligkts/
-[medium]: https://medium.com/@alig106
+[medium]: https://medium.com/@aligoktass
 [mail]: mailto:eng.ali.goktas@gmail.com
 
 
